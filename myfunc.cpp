@@ -1,3 +1,4 @@
+#include <string>
 #include "myfunc.h"
 
 std::string func()

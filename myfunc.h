@@ -1,3 +1,9 @@
 #include <iostream>
+#include <string>
 
-std::string func();
+#ifndef MYFUNC_H
+#define MYFUNC_H
+
+  std::string func();
+
+#endif
